@@ -1,0 +1,7 @@
+This is just a little project I put together to host all the music experiments I get into on a software side.
+
+The few files that are included now are nodal XML files.
+
+h5. Sample MP3s
+
+"rotate again":https://static.slawcup.com.s3.amazonaws.com/music/rotate_1-2-2009.mp3
